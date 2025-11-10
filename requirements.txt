@@ -1,0 +1,13 @@
+Django
+django-admin
+python-dotenv
+django-cors-headers
+whitenoise
+gunicorn
+djangorestframework 
+django-filter 
+django-restframework
+Pillow 
+twilio 
+celery 
+redis 
